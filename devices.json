@@ -1095,18 +1095,18 @@
             "version_code": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "twelve",
             "stable": false,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
